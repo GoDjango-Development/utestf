@@ -1,0 +1,5 @@
+.Makefile.swp
+.vimrc
+include/.utestf.h.swp
+src/.main.c.swp
+src/.utestf.c.swp
